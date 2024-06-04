@@ -16,7 +16,9 @@ This Sales Insights project aims to address the declining sales trend within the
 **Data Analysis:** Conducted various analyses to uncover trends, identify top-performing markets, customers, and products.
 **Dashboard Development:** Developed an automated dashboard using SQL queries to visualize sales insights.
 
-[SQL queries used in the project.](https://github.com/KritikaParasharDA/AtliQ-Sales-Insights/commit/a9e56e34b8a98d979b499e986fd20d3b7ab2425c)
+[SQL queries used in the project.](https://github.com/KritikaParasharDA/AtliQ-Sales-Insights/commit/a9e56e34b8a98d979b499e986fd20d3b7ab2425c)                                                   
+
+
 [Tableau Dashboard](https://public.tableau.com/app/profile/kritika.parashar/viz/salesinsightsforatliq/Story1)
 
 ## Key Insights
